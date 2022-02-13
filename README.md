@@ -32,4 +32,5 @@ Belajar kelas Memulai Dasar Pemrograman untuk Menjadi Pengembang Software (Progr
 * latihan Git dengan Github
 
 **Hi, ini kolaborator**
+* Latihan Merge
 
