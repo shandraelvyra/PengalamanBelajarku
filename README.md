@@ -29,4 +29,5 @@ Belajar kelas Memulai Dasar Pemrograman untuk Menjadi Pengembang Software (Progr
 **13 Februari 2022**
 
 * latihan Git
+* latihan Git dengan Github
 
