@@ -26,3 +26,7 @@ Belajar kelas Memulai Dasar Pemrograman untuk Menjadi Pengembang Software (Progr
  * Mengerjakan Ujian Akhir untuk nilai kemahiran diri
 
 
+**13 Februari 2022**
+
+* latihan Git
+
